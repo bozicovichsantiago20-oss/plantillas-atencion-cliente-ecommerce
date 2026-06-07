@@ -1,6 +1,6 @@
 # Plantillas de atencion al cliente ecommerce
 
-Entrada recomendada: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html?src=github-readme&utm_campaign=plantillas-atencion-cliente-ecommerce?src=github-readme&utm_campaign=plantillas-atencion-cliente-ecommerce
+Entrada recomendada: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html?src=github-readme&utm_campaign=plantillas-atencion-cliente-ecommerce
 
 Recurso para vendedores online que necesitan responder consultas repetidas sin improvisar cada mensaje.
 
